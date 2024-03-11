@@ -1,6 +1,6 @@
-# mi_card
+# Mi Card
 
-A new Flutter project.
+A new Flutter Bussiness card project.
 
 ## Getting Started
 
