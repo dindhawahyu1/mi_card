@@ -1,6 +1,6 @@
 # Mi Card
 
-A new Flutter Bussiness card project.
+a Bussiness Card in application model
 
 ## Getting Started
 
